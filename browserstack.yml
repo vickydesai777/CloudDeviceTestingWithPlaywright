@@ -1,5 +1,5 @@
-userName: vicky_uIHJ2R
-accessKey: MGcszuwQ6jUR2iKZNGYj
+userName: {userName}
+accessKey: {accessKey}
 platforms:
   - os: OS X
     osVersion: Ventura
